@@ -10,6 +10,26 @@
 
 -International Student at the University of Manitoba. Love Basketball and am very interested in the automation of tasks and making things more efficient.
 
+## 🎓 Academic Journey
+
+Studying at the University of Manitoba isn't just a step towards earning a degree for me. It's about enriching my mind with knowledge and skills that will enable me to contribute meaningfully to the tech world. Here, I immerse myself in learning and applying cutting-edge concepts, focusing on streamlining processes and enhancing productivity through innovative solutions.
+
+## 🏀 Outside the Classroom
+
+Off the academic grounds, you can find me on a basketball court. It's been my #1 hobby since I was a kid. I am not in the NBA, but maybe I could make an app for them one day(?)
+
+## 💻 Tech Interests
+
+My fascination with automation spans across various domains. I am constantly exploring tools and technologies that simplify mundane tasks, allowing for a greater focus on creativity and innovation. From scripting to automate data analyses to delving into AI and machine learning for workflow optimization, I believe in harnessing technology to unlock new levels of efficiency.
+
+## 🌟 Future Aspirations
+
+I am excited about the prospect of using my knowledge and skills to contribute to projects that marry technology with social good. I dream of a future where technology not only simplifies our lives but also promotes sustainability and equality. Through continuous learning and collaboration, I look forward to unlocking the endless possibilities that technology holds.
+
+## 📫 Let's Connect
+
+I'd love to connect. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/william-odumah-460748233/)
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
