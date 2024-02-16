@@ -12,7 +12,7 @@
 
 ### &nbsp;About Me :
 
--International Student at the University of Manitoba. Love Basketball and am very interested in the automation of tasks and making things more efficient.
+- 4th year International Student at the University of Manitoba. Love Basketball and very interested in the automation of tasks, cybersecurity and making things more efficient.
 
 ## 🎓 Academic Journey
 
