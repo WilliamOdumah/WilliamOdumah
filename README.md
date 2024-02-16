@@ -46,19 +46,8 @@ I'd love to connect. Feel free to reach out to me on [LinkedIn](https://www.link
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" **alt="RStudio" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" **alt="Unix" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" **alt="kaggle" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" **alt="JetBrains" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=onyelechie&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyelechie&layout=compact&theme=vision-friendly-dark)](https://github.com/onyelechie/github-readme-stats)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/onyelechie/onyelechie/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/onyelechie/onyelechie/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-![](https://komarev.com/ghpvc/?username=onyelechie)
