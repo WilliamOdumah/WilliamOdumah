@@ -10,9 +10,6 @@
 
 -International Student at the University of Manitoba. Love Basketball and am very interested in the automation of tasks and making things more efficient.
 
--How to reach me: 
-
-
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
