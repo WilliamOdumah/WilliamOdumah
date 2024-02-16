@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm William 👋🏾 👨🏾‍💻 <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=790b7611u7uea90oc8fwt6yxzskqlx3quq1npnip2o6z8278&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="40"></h1>
+<h1 align="center"> Hi, I'm William 👋🏾 👨🏾‍💻 <img src="" width="40"></h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/william-odumah-460748233/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
