@@ -20,7 +20,7 @@ Studying at the University of Manitoba isn't just a step towards earning a degre
 
 ## 🏀 Outside the Classroom
 
-Off the academic grounds, you can find me on a basketball court. It's been my #1 hobby since I was a kid. I am not in the NBA, but maybe I could make an app for them one day(?)
+Off the academic grounds, you can find me on a basketball court. It's been my #1 hobby since I was a kid.
 
 ## 💻 Tech Interests
 
