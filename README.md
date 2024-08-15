@@ -12,7 +12,7 @@
 
 ### &nbsp;About Me :
 
-- 4th year International Student at the University of Manitoba. Love Basketball and very interested in the automation of tasks, cybersecurity and making things more efficient.
+- Incoming Software Engineer interested in the automation of tasks, cybersecurity and making things more efficient.
 
 ## 🎓 Academic Journey
 
