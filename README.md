@@ -12,23 +12,23 @@
 
 ### &nbsp;About Me :
 
-- Incoming Software Engineer interested in the automation of tasks, cybersecurity and making things more efficient.
+- Software Developer & Entrepreneur focused on automation, cybersecurity, and making things work better.
 
 ## 🎓 Academic Journey
 
-Studying at the University of Manitoba isn't just a step towards earning a degree for me. It's about enriching my mind with knowledge and skills that will enable me to contribute meaningfully to the tech world. Here, I immerse myself in learning and applying cutting-edge concepts, focusing on streamlining processes and enhancing productivity through innovative solutions.
+I recently graduated from the University of Manitoba with a Computer Science degree, and now I’m working as an Application Developer Intern at Wawanesa Insurance. For me, it’s never just been about getting a degree—it’s about building real skills, applying them, and creating things that solve actual problems.
 
 ## 🏀 Outside the Classroom
 
-Off the academic grounds, you can find me on a basketball court. It's been my #1 hobby since I was a kid.
+When I’m not woking, I’m either on the basketball court or out running. I compete in marathons and other races around Winnipeg too!
 
 ## 💻 Tech Interests
 
-My fascination with automation spans across various domains. I am constantly exploring tools and technologies that simplify mundane tasks, allowing for a greater focus on creativity and innovation. From scripting to automate data analyses to delving into AI and machine learning for workflow optimization, I believe in harnessing technology to unlock new levels of efficiency.
+I’m big on automation and anything that cuts out unnecessary effort and makes things run smoother. Whether it’s writing scripts to speed up repetitive tasks, building AI-driven tools, or figuring out better ways to manage data, I’m all about efficiency.
 
 ## 🌟 Future Aspirations
 
-I am excited about the prospect of using my knowledge and skills to contribute to projects that marry technology with social good. I dream of a future where technology not only simplifies our lives but also promotes sustainability and equality. Through continuous learning and collaboration, I look forward to unlocking the endless possibilities that technology holds.
+I’m building Servillia, a platform that connects immigrants to local businesses and services that feel like home. I’m also diving deeper into fullstack development, AI, and analysis. Long term, I want to create products that solve real problems, scale efficiently, and actually make an impact.
 
 ## 📫 Let's Connect
 
