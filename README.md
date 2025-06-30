@@ -16,11 +16,11 @@
 
 ## 🎓 Academic Journey
 
-I recently graduated from the University of Manitoba with a Computer Science degree, and now I’m working as an Application Developer Intern at Wawanesa Insurance. For me, it’s never just been about getting a degree—it’s about building real skills, applying them, and creating things that solve actual problems.
+I recently graduated from the University of Manitoba with a Computer Science degree, worked as an Application Developer Intern at Wawanesa Insurance, and now pursuing a full time offer and building my startup Servillia. For me, it’s never just been about getting a degree.. it’s about building real skills, applying them, and creating things that solve actual problems.
 
-## 🏀 Outside the Classroom
+## Outside the Classroom
 
-When I’m not woking, I’m either on the basketball court or out running. I compete in marathons and other races around Winnipeg too!
+When I’m not woking, I’m either on the basketball court or out running. I compete in marathons and other races around Winnipeg too! I also run a vending maching compamy called 24Vending in Winnipeg and currentely building [Servillia](servillia.com) - a platform designed to help immigrants, tourists and expats find services that remind them of their home region.
 
 ## 💻 Tech Interests
 
@@ -28,7 +28,7 @@ I’m big on automation and anything that cuts out unnecessary effort and makes 
 
 ## 🌟 Future Aspirations
 
-I’m building Servillia, a platform that connects immigrants to local businesses and services that feel like home. I’m also diving deeper into fullstack development, AI, and analysis. Long term, I want to create products that solve real problems, scale efficiently, and actually make an impact.
+As mentioned above.. I’m building Servillia, a platform that connects immigrants to local businesses and services that feel like home. I’m also diving deeper into fullstack development, AI, and analysis. Long term, I want to create products that solve real problems, scale efficiently, and actually make an impact.
 
 ## 📫 Let's Connect
 
