@@ -20,7 +20,7 @@ I recently graduated from the University of Manitoba with a Computer Science deg
 
 ## Outside the Classroom
 
-When I’m not woking, I’m either on the basketball court or out running. I compete in marathons and other races around Winnipeg too! I also run a vending maching compamy called 24Vending in Winnipeg and currentely building [Servillia](servillia.com) - a platform designed to help immigrants, tourists and expats find services that remind them of their home region.
+When I’m not woking, I’m either on the basketball court or out running. I compete in marathons and other races around Winnipeg too! I also run a vending maching compamy called 24Vending in Winnipeg and currentely building [Servillia](https://www.servillia.com/) - a platform designed to help immigrants, tourists and expats find services that remind them of their home region.
 
 ## 💻 Tech Interests
 
