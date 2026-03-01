@@ -12,11 +12,11 @@
 
 ### &nbsp;About Me :
 
-- Software Developer & Entrepreneur focused on automation, cybersecurity, and making things work better.
+- Software Developer & Entrepreneur. I just enjoy building stuff
 
 ## 🎓 Academic Journey
 
-I recently graduated from the University of Manitoba with a Computer Science degree, worked as an Application Developer Intern at Wawanesa Insurance, and now pursuing a full time offer and building my startup Servillia. For me, it’s never just been about getting a degree.. it’s about building real skills, applying them, and creating things that solve actual problems.
+I recently graduated from the University of Manitoba with a Computer Science degree, worked as an Application Developer Intern at Wawanesa Insurance, and now a Software Developer at Pollard Banknote while building my startup Servillia. For me, it’s never just been about getting a degree.. it’s about building real skills, applying them, and creating things that solve actual problems.
 
 ## Outside the Classroom
 
